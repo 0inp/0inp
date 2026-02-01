@@ -14,7 +14,9 @@ Full-stack developer with 8+ years of experience in **Python, Java, Node.js, and
 
 ## 🌟 Featured Projects
 🔹 **[infra-home](https://github.com/0inp/infra-home)** – Homelab infrastructure as code (Terraform, Ansible, Docker)
+
 🔹 **[dotfiles](https://github.com/0inp/dotfiles)** – Personal configuration files for development environments
+
 🔹 **[cine-uio](https://github.com/0inp/cine-uio)** – Quito cinema showtimes scraper (IN PROGRESS)
 
 ## 📫 Let’s Connect
